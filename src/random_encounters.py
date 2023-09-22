@@ -22,7 +22,7 @@ while roll_again == "yes" or roll_again == "y":
     print(value1)
     # roll_again = input("Press 'y' or 'yes' to roll the die again.")
 
-#1 =
+encounter1 = "Your best ox has come down bad with tuberculosis. What do you do?"
 #2 =
 #3 = 
 #4 = 
